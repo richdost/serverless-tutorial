@@ -1,3 +1,5 @@
+Written while doing tutorial at https://serverless-stack.com (v3.3). It's a great tutorial.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
